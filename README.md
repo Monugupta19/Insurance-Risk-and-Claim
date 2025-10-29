@@ -13,6 +13,7 @@ The project aims to support **data-driven decision-making** in underwriting, pri
 - Compare **premium collected vs. claims paid** for profitability analysis  
 
 ---
+<img width="826" height="480" alt="Screenshot 2025-10-29 195148" src="https://github.com/user-attachments/assets/4e20bccd-a6f1-432c-84b1-038a3b2a4615" />
 
 ## 💡 Key Insights & Visuals
 
